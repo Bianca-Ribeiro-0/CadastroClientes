@@ -1,0 +1,2 @@
+"# CadastroClientes"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Bianca-Ribeiro-0/CadastroClientes.gitgit push -u origin main
+"# CadastroClientes"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Bianca-Ribeiro-0/CadastroClientes.gitgit push -u origin main
